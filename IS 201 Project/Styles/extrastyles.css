@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: #000000;
+    background-color: cornflowerblue;
+}
+li {
+    font-size: 13px;
+    font-style: italic;
+    font-weight: normal;
+    color: #000000;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+   
+}
+a:visited {
+    color: rgb(80, 80, 129);
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(11, 11, 86);
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+.extra {background-color: rgb(181, 157, 203);}
